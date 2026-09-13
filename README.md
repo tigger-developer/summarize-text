@@ -121,7 +121,7 @@ make help          # Show all targets
 
 ## License
 
-MIT License --- Copyright (c) Taḋg Paul. See [LICENSE](LICENSE).
+MIT License --- Copyright (c) Tadhg O'Brien. See [LICENSE](LICENSE).
 
 ## Changelog
 
